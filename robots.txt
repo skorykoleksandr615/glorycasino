@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://glorycasino.cfd/sitemap.xml
+Sitemap: https://glorycasino.cfd/sitemap_index.xml
